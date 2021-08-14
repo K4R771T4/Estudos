@@ -9,8 +9,7 @@
     box-sizing: border-box;
 }
 
-
-body {
+.body {
     justify-content: center;
     display: flex;
     margin: 0;
